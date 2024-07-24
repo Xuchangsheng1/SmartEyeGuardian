@@ -5,13 +5,19 @@ Smart Eye Guardian: Safeguarding Your Eye Health
   <a href="https://github.com/Xuchangsheng1/SmartEyeGuardian/">
     <img src="img/show.png" alt="Logo" width="60%">
   </a>
-
+</p>
 ### 📖 项目概述
 
-</br>
 
 **SmartEyeGuardian** 是基于[InternLM](https://github.com/InternLM/InternLM.git) 的智眼守护大模型，利用Agent通过整合人工智能技术，实现对多种眼科疾病的精准诊断与预测。项目将利用深度学习和大数据分析，提升眼科临床决策的准确性和效率，推动智能医疗的发展，为患者提供更优质的眼健康管理服务。
 我们将会构建EyeMedQA问诊数据集，旨在实现多种眼科疾病问答服务。
+
+<!-- 
+🎉更新 
+- \[2024/03/15\] 将病种数量提升至4，模型训练时做了数据清洗并使用了msagent的部分数据以提高工具调用能力
+- \[2024/02/20\] Lagent版本支持0.2.2
+-->
+
 ### 🔆 教程安利
 如果你也想了解大模型，可以去了解一下哦~[大模型实验营](https://github.com/InternLM/Tutorial)
 
