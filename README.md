@@ -24,7 +24,7 @@ Smart Eye Guardian: Safeguarding Your Eye Health
 <!-- - 绘画中~🎨-->
 <p align="center">
   <a href="https://github.com/Xuchangsheng1/SmartEyeGuardian/">
-    <img src="img/framework.png" alt="framework" width="60%">
+    <img src="img/framework.png" alt="framework" width="100%">
   </a>
 </p>
 ### 📝 模型使用
