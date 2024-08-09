@@ -21,8 +21,12 @@ Smart Eye Guardian: Safeguarding Your Eye Health
 如果你也想了解大模型，可以去了解一下哦~[大模型实验营](https://github.com/InternLM/Tutorial)
 
 ### 🏷️ 项目架构图
-- 绘画中~🎨
-
+<!-- - 绘画中~🎨-->
+<p align="center">
+  <a href="https://github.com/Xuchangsheng1/SmartEyeGuardian/">
+    <img src="img/framework.png" alt="framework" width="60%">
+  </a>
+</p>
 ### 📝 模型使用
 - 技术框架:base_model ->InternLM，包括但不限于增量训练。
 - 部署环境:具体配置后期更新配置文档。
