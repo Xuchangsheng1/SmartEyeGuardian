@@ -27,6 +27,7 @@ Smart Eye Guardian: Safeguarding Your Eye Health
     <img src="img/framework.png" alt="framework" width="100%">
   </a>
 </p>
+
 ### 📝 模型使用
 - 技术框架:base_model ->InternLM，包括但不限于增量训练。
 - 部署环境:具体配置后期更新配置文档。
